@@ -1,4 +1,3 @@
-# OCTANET_JUNE
 Web Development
 Getting Started
 ----------------
